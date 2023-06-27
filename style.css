@@ -37,6 +37,7 @@ body{
 .title{
     margin: 20px 0;
     color: var(--dark-blue);
+    font-size: 24px;
 }
 
 .card p{
